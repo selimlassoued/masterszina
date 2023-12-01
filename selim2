@@ -1,11 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>projet1</title>
+	<meta content text="text/css" charset="UTF-8">
+	<link <link rel="stylesheet" type="text/css" href="projet2.css">
+
 </head>
 <body>
-    
+    <img src="C:\Users\msi 4050\Desktop\themasters\themasters\The_Masters\The_Masters\img.jpg.png" alt="photo" width="100%" height="300">
+        <form method="post" name="GreenScan">
+           <h1><label for="name" >Sign up</label></h1>
+           <input type="text" placeholder="&#128100; Full name" id="name" style="width:100%;" required/>
+           <input type="email" name="email" placeholder="&#128231; Email" id="email" style="width:100%;"  required/>
+           <input type="password" name="password" placeholder="&#128274; Password" style="width:100%;"  required/>
+           <input type="password" name="password" placeholder="&#128274; Confirm Password" style="width:100%;"  required/>
+            <input type="button" value="Sign up" class="butt" style="width:100%;">
+            <label class="espace">Already have an account?</label>
+            <a href="" title="sign in"><b>Sign In<b></a>
+
+        </form>
 </body>
 </html>
