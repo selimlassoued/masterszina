@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+   <title>projet1</title>
+	<meta content text="text/css" charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="projet1.css">
 </head>
-<body>
-    
+<body style="background-color:rgb(47,123,31);">
+    <p  class="ff" >
+    <img src="C:\Users\msi 4050\Desktop\themasters\themasters\The_Masters\The_Masters\img.jpg.png" alt="photo" width="50%">
+    </p>
 </body>
 </html>
